@@ -1,0 +1,5 @@
+.venv-w2v/
+data/
+logs/
+.ipynb_checkpoints/
+__pycache__/
